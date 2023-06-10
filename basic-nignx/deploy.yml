@@ -31,4 +31,5 @@ spec:
         hostPath:
           path: /home/jb/Desktop/code/tools/lab-k8s/basic-nignx/html
           type: Directory
+          
 status: {}
